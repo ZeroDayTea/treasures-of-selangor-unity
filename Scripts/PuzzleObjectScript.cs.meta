@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: f9bbbc139d4457f41899b16a98c37d08
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - puzzleImage: {instanceID: 0}
+  - puzzle1Obj: {fileID: 1233945451898739633, guid: 1780377f7e52a144c87bc9864c1a2f31,
+      type: 3}
+  - puzzle1Cam: {instanceID: 0}
+  - puzzle2Obj: {fileID: 1845571794283650349, guid: e4f981b97e0dc314cb8b8e350d3c02e6,
+      type: 3}
+  - puzzle2Cam: {instanceID: 0}
+  - puzzle3Obj: {fileID: 2053268743507926443, guid: 5d0e8e6470a77f349a01302e4da5877f,
+      type: 3}
+  - puzzle3Cam: {instanceID: 0}
+  - puzzleParent: {instanceID: 0}
+  - puzzle1Mat: {instanceID: 0}
+  - puzzle2Mat: {instanceID: 0}
+  - puzzle3Mat: {instanceID: 0}
+  - puzzle3Logic: {instanceID: 0}
+  - puzzle2but1: {instanceID: 0}
+  - puzzle2but2: {instanceID: 0}
+  - puzzle2but3: {instanceID: 0}
+  - puzzle2but4: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
